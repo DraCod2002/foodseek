@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839981430540",
+    "project_id": "foodseek-96113",
+    "storage_bucket": "foodseek-96113.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839981430540:android:48e144f3209dea8d91bb29",
+        "android_client_info": {
+          "package_name": "com.example.food_seek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839981430540-5nkpoupsp5hnenp869aukbufau61rrrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_seek",
+            "certificate_hash": "248f02d9f78a99451f59b2511646f2f11618670e"
+          }
+        },
+        {
+          "client_id": "839981430540-l4hrg87f5m1dm626tv17ucai2nc43qb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtmyPIZRVm00ixZSwi-0jwDsziI-9fsjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839981430540-l4hrg87f5m1dm626tv17ucai2nc43qb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -37,8 +37,8 @@ class HomeView extends StatelessWidget {
                   child: Column(
                     mainAxisSize: MainAxisSize.min,
                     children: const [
-                      Icon(Icons.bar_chart, size: 30),
-                      Text('Analytics'),
+                      Icon(Icons.explore, size: 30),
+                      Text('Explore'),
                     ],
                   ),
                 ),
